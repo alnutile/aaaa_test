@@ -19,3 +19,4 @@
      And I press "op"
      Given I wait for "5" seconds
      Then I should see "Thank you"
+     Given I wait for "4" seconds
